@@ -1,0 +1,13 @@
+git操作
+
+在电脑新建个文件夹
+git clone https://github.com/fimily/test.git
+
+添加，修改
+git add 
+提交代码
+git commit -m "注释"
+提交到远程仓库
+git push
+从远程仓库下载
+git pull
